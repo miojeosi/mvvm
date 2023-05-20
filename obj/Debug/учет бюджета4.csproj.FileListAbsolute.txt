@@ -1,0 +1,83 @@
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\bin\Debug\учет бюджета4.exe.config
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\bin\Debug\учет бюджета4.exe
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\bin\Debug\учет бюджета4.pdb
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4.csproj.AssemblyReference.cache
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\MainWindow.g.cs
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\App.g.cs
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.cache
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.lref
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\MainWindow.baml
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4.g.resources
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет_бюджета4.Properties.Resources.resources
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4.csproj.GenerateResource.cache
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4.exe
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\учет бюджета4.pdb
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\NewWindow.g.cs
+C:\Users\Светлана\source\repos\учет бюджета4\учет бюджета4\obj\Debug\NewWindow.baml
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\bin\Debug\учет бюджета4.exe.config
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\bin\Debug\учет бюджета4.exe
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\bin\Debug\учет бюджета4.pdb
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.csproj.AssemblyReference.cache
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\MainWindow.g.cs
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\NewWindow.g.cs
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\App.g.cs
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.cache
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.lref
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\MainWindow.baml
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\NewWindow.baml
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.g.resources
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет_бюджета4.Properties.Resources.resources
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.csproj.GenerateResource.cache
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.csproj.CoreCompileInputs.cache
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.exe
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.pdb
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.csproj.Fody.CopyLocal.cache
+C:\Users\Efforts\Documents\Консультации\Света\учет бюджета4\obj\Debug\учет бюджета4.csproj.Fody.RuntimeCopyLocal.cache
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\bin\Debug\учет бюджета4.exe.config
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\bin\Debug\учет бюджета4.exe
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\bin\Debug\учет бюджета4.pdb
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.AssemblyReference.cache
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\MainWindow.g.cs
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\NewWindow.g.cs
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\App.g.cs
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.cache
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.lref
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\MainWindow.baml
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\NewWindow.baml
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.g.resources
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет_бюджета4.Properties.Resources.resources
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.GenerateResource.cache
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.CoreCompileInputs.cache
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.Fody.CopyLocal.cache
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.Fody.RuntimeCopyLocal.cache
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.exe
+E:\Проекты\CSharp\WPF\Скачанное\учет\учет\учет бюджета4\obj\Debug\учет бюджета4.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\bin\Debug\учет бюджета4.exe.config
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\bin\Debug\учет бюджета4.exe
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\bin\Debug\учет бюджета4.pdb
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.AssemblyReference.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\MainWindow.g.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\NewWindow.g.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\App.g.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4_MarkupCompile.lref
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\MainWindow.baml
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\NewWindow.baml
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.g.resources
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет_бюджета4.Properties.Resources.resources
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.GenerateResource.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.Fody.CopyLocal.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.exe
+C:\Users\Светлана\OneDrive\Рабочий стол\учет\учет бюджета4\obj\Debug\учет бюджета4.pdb
